@@ -4,13 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In a team of 3, myself and my teammates put together a solution called Scotiahub. Scotiahub consisted of cost-saving branches that allowed for a simplified online banking experience. Integrated with an interactive voice assistant, the scotiahub promotes equality amongst a diverse pool of clients. The ScotiaHub will consist of several tablets that will be integrated with an all new UI that makes it easier than ever to access. Tablets will allow for instant bill payments, void check printing, depositing checks, and many other frequent tasks that cant be done through an ATM machine.
+link to our pitch: https://www.youtube.com/watch?v=7X-meEVMU98
